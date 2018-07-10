@@ -1,4 +1,6 @@
 # New Maintainers and Repository Location
+iOS build build fix by SPHDD (Too many arguments to block call, expected 1, have 3)
+
 
 wkh237's last Github activity was in September 2017, and he has not reacted to emails either. This repository no longer is the main location of "react-native-fetch-blob".
 

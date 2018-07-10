@@ -256,7 +256,7 @@
 					"$(SRCROOT)/../../react-native/React/**",
 					"$(SRCROOT)/../../node_modules/react-native/React/**",
 					"$(SRCROOT)/../../node_modules/react-native-fetch-blob/ios/RNFetchBlob",
-					"$(SRCROOT)/../../RNFetchBlobTest/node_modules/react-native/**",
+					"$(SRCROOT)/../node_modules/react-native/React/Base",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -277,7 +277,7 @@
 					"$(SRCROOT)/../../react-native/React/**",
 					"$(SRCROOT)/../../node_modules/react-native/React/**",
 					"$(SRCROOT)/../../node_modules/react-native-fetch-blob/ios/RNFetchBlob",
-					"$(SRCROOT)/../../RNFetchBlobTest/node_modules/react-native/**",
+					"$(SRCROOT)/../node_modules/react-native/React/Base",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
